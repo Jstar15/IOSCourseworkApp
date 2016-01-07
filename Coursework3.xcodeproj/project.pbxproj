@@ -10,10 +10,31 @@
 		8C68E8751A0168D1007CB8DE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C68E8741A0168D1007CB8DE /* main.m */; };
 		8C68E8781A0168D1007CB8DE /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C68E8771A0168D1007CB8DE /* AppDelegate.m */; };
 		8C68E87B1A0168D1007CB8DE /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C68E87A1A0168D1007CB8DE /* ViewController.m */; };
-		8C68E87E1A0168D1007CB8DE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8C68E87C1A0168D1007CB8DE /* Main.storyboard */; };
 		8C68E8801A0168D1007CB8DE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8C68E87F1A0168D1007CB8DE /* Images.xcassets */; };
 		8C68E8831A0168D1007CB8DE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8C68E8811A0168D1007CB8DE /* LaunchScreen.xib */; };
 		8C68E88F1A0168D1007CB8DE /* Coursework3Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C68E88E1A0168D1007CB8DE /* Coursework3Tests.m */; };
+		8CA0A2621A0BC751001ACC4F /* vlebtn.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CA0A2601A0BC751001ACC4F /* vlebtn.png */; };
+		8CA0A2631A0BC751001ACC4F /* portalbtn.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CA0A2611A0BC751001ACC4F /* portalbtn.png */; };
+		8CDED6F71A016935000C1C97 /* MasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CDED6F51A016935000C1C97 /* MasterViewController.m */; };
+		8CDED6F81A016935000C1C97 /* MasterViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8CDED6F61A016935000C1C97 /* MasterViewController.xib */; };
+		8CDED6FC1A016B7E000C1C97 /* SimpleTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CDED6FA1A016B7E000C1C97 /* SimpleTableViewController.m */; };
+		8CDED6FD1A016B7E000C1C97 /* SimpleTableViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8CDED6FB1A016B7E000C1C97 /* SimpleTableViewController.xib */; };
+		8CDED7011A016BAB000C1C97 /* WebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CDED6FF1A016BAB000C1C97 /* WebViewController.m */; };
+		8CDED7021A016BAB000C1C97 /* WebViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8CDED7001A016BAB000C1C97 /* WebViewController.xib */; };
+		8CDED7061A016BC2000C1C97 /* SimpleTableCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CDED7041A016BC2000C1C97 /* SimpleTableCell.m */; };
+		8CDED7071A016BC2000C1C97 /* SimpleTableCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8CDED7051A016BC2000C1C97 /* SimpleTableCell.xib */; };
+		8CDED70A1A016BD1000C1C97 /* Database.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CDED7091A016BD1000C1C97 /* Database.m */; };
+		8CDED7121A016BF5000C1C97 /* backicon.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CDED70B1A016BF5000C1C97 /* backicon.png */; };
+		8CDED7131A016BF5000C1C97 /* database.sqlite in Resources */ = {isa = PBXBuildFile; fileRef = 8CDED70C1A016BF5000C1C97 /* database.sqlite */; };
+		8CDED7141A016BF5000C1C97 /* forwardicon.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CDED70D1A016BF5000C1C97 /* forwardicon.png */; };
+		8CDED7151A016BF5000C1C97 /* navback.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CDED70E1A016BF5000C1C97 /* navback.png */; };
+		8CDED7171A016BF5000C1C97 /* schedulebtn.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CDED7101A016BF5000C1C97 /* schedulebtn.png */; };
+		8CDED7181A016BF5000C1C97 /* stopicon.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CDED7111A016BF5000C1C97 /* stopicon.png */; };
+		8CDED71A1A016C33000C1C97 /* libsqlite3.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 8CDED7191A016C33000C1C97 /* libsqlite3.dylib */; };
+		8CDED7221A017306000C1C97 /* WebViewController~iphone.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8CDED7211A017306000C1C97 /* WebViewController~iphone.xib */; };
+		8CDED7261A017CA5000C1C97 /* MasterViewController~iphone.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8CDED7231A017CA5000C1C97 /* MasterViewController~iphone.xib */; };
+		8CDED7271A017CA5000C1C97 /* SimpleTableViewController~iphone.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8CDED7241A017CA5000C1C97 /* SimpleTableViewController~iphone.xib */; };
+		8CDED7281A017CA5000C1C97 /* SimpleTableCell~iphone.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8CDED7251A017CA5000C1C97 /* SimpleTableCell~iphone.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,12 +55,38 @@
 		8C68E8771A0168D1007CB8DE /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		8C68E8791A0168D1007CB8DE /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		8C68E87A1A0168D1007CB8DE /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		8C68E87D1A0168D1007CB8DE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8C68E87F1A0168D1007CB8DE /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		8C68E8821A0168D1007CB8DE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		8C68E8881A0168D1007CB8DE /* Coursework3Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Coursework3Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8C68E88D1A0168D1007CB8DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8C68E88E1A0168D1007CB8DE /* Coursework3Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Coursework3Tests.m; sourceTree = "<group>"; };
+		8CA0A2601A0BC751001ACC4F /* vlebtn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = vlebtn.png; sourceTree = "<group>"; };
+		8CA0A2611A0BC751001ACC4F /* portalbtn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = portalbtn.png; sourceTree = "<group>"; };
+		8CDED6F41A016935000C1C97 /* MasterViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MasterViewController.h; sourceTree = "<group>"; };
+		8CDED6F51A016935000C1C97 /* MasterViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MasterViewController.m; sourceTree = "<group>"; };
+		8CDED6F61A016935000C1C97 /* MasterViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MasterViewController.xib; sourceTree = "<group>"; };
+		8CDED6F91A016B7E000C1C97 /* SimpleTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SimpleTableViewController.h; sourceTree = "<group>"; };
+		8CDED6FA1A016B7E000C1C97 /* SimpleTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SimpleTableViewController.m; sourceTree = "<group>"; };
+		8CDED6FB1A016B7E000C1C97 /* SimpleTableViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SimpleTableViewController.xib; sourceTree = "<group>"; };
+		8CDED6FE1A016BAB000C1C97 /* WebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WebViewController.h; sourceTree = "<group>"; };
+		8CDED6FF1A016BAB000C1C97 /* WebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WebViewController.m; sourceTree = "<group>"; };
+		8CDED7001A016BAB000C1C97 /* WebViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WebViewController.xib; sourceTree = "<group>"; };
+		8CDED7031A016BC2000C1C97 /* SimpleTableCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SimpleTableCell.h; sourceTree = "<group>"; };
+		8CDED7041A016BC2000C1C97 /* SimpleTableCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SimpleTableCell.m; sourceTree = "<group>"; };
+		8CDED7051A016BC2000C1C97 /* SimpleTableCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SimpleTableCell.xib; sourceTree = "<group>"; };
+		8CDED7081A016BD1000C1C97 /* Database.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Database.h; sourceTree = "<group>"; };
+		8CDED7091A016BD1000C1C97 /* Database.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Database.m; sourceTree = "<group>"; };
+		8CDED70B1A016BF5000C1C97 /* backicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = backicon.png; sourceTree = "<group>"; };
+		8CDED70C1A016BF5000C1C97 /* database.sqlite */ = {isa = PBXFileReference; lastKnownFileType = file; path = database.sqlite; sourceTree = "<group>"; };
+		8CDED70D1A016BF5000C1C97 /* forwardicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = forwardicon.png; sourceTree = "<group>"; };
+		8CDED70E1A016BF5000C1C97 /* navback.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = navback.png; sourceTree = "<group>"; };
+		8CDED7101A016BF5000C1C97 /* schedulebtn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = schedulebtn.png; sourceTree = "<group>"; };
+		8CDED7111A016BF5000C1C97 /* stopicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stopicon.png; sourceTree = "<group>"; };
+		8CDED7191A016C33000C1C97 /* libsqlite3.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsqlite3.dylib; path = usr/lib/libsqlite3.dylib; sourceTree = SDKROOT; };
+		8CDED7211A017306000C1C97 /* WebViewController~iphone.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = "WebViewController~iphone.xib"; sourceTree = "<group>"; };
+		8CDED7231A017CA5000C1C97 /* MasterViewController~iphone.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = "MasterViewController~iphone.xib"; sourceTree = "<group>"; };
+		8CDED7241A017CA5000C1C97 /* SimpleTableViewController~iphone.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = "SimpleTableViewController~iphone.xib"; sourceTree = "<group>"; };
+		8CDED7251A017CA5000C1C97 /* SimpleTableCell~iphone.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = "SimpleTableCell~iphone.xib"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +94,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8CDED71A1A016C33000C1C97 /* libsqlite3.dylib in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,6 +111,7 @@
 		8C68E8661A0168D1007CB8DE = {
 			isa = PBXGroup;
 			children = (
+				8CDED7191A016C33000C1C97 /* libsqlite3.dylib */,
 				8C68E8711A0168D1007CB8DE /* Coursework3 */,
 				8C68E88B1A0168D1007CB8DE /* Coursework3Tests */,
 				8C68E8701A0168D1007CB8DE /* Products */,
@@ -85,7 +134,24 @@
 				8C68E8771A0168D1007CB8DE /* AppDelegate.m */,
 				8C68E8791A0168D1007CB8DE /* ViewController.h */,
 				8C68E87A1A0168D1007CB8DE /* ViewController.m */,
-				8C68E87C1A0168D1007CB8DE /* Main.storyboard */,
+				8CDED6F41A016935000C1C97 /* MasterViewController.h */,
+				8CDED6F51A016935000C1C97 /* MasterViewController.m */,
+				8CDED6F61A016935000C1C97 /* MasterViewController.xib */,
+				8CDED7231A017CA5000C1C97 /* MasterViewController~iphone.xib */,
+				8CDED6FE1A016BAB000C1C97 /* WebViewController.h */,
+				8CDED6FF1A016BAB000C1C97 /* WebViewController.m */,
+				8CDED7001A016BAB000C1C97 /* WebViewController.xib */,
+				8CDED7211A017306000C1C97 /* WebViewController~iphone.xib */,
+				8CDED6F91A016B7E000C1C97 /* SimpleTableViewController.h */,
+				8CDED6FA1A016B7E000C1C97 /* SimpleTableViewController.m */,
+				8CDED6FB1A016B7E000C1C97 /* SimpleTableViewController.xib */,
+				8CDED7241A017CA5000C1C97 /* SimpleTableViewController~iphone.xib */,
+				8CDED7031A016BC2000C1C97 /* SimpleTableCell.h */,
+				8CDED7041A016BC2000C1C97 /* SimpleTableCell.m */,
+				8CDED7051A016BC2000C1C97 /* SimpleTableCell.xib */,
+				8CDED7251A017CA5000C1C97 /* SimpleTableCell~iphone.xib */,
+				8CDED7081A016BD1000C1C97 /* Database.h */,
+				8CDED7091A016BD1000C1C97 /* Database.m */,
 				8C68E87F1A0168D1007CB8DE /* Images.xcassets */,
 				8C68E8811A0168D1007CB8DE /* LaunchScreen.xib */,
 				8C68E8721A0168D1007CB8DE /* Supporting Files */,
@@ -96,6 +162,14 @@
 		8C68E8721A0168D1007CB8DE /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				8CDED70B1A016BF5000C1C97 /* backicon.png */,
+				8CDED70C1A016BF5000C1C97 /* database.sqlite */,
+				8CA0A2601A0BC751001ACC4F /* vlebtn.png */,
+				8CA0A2611A0BC751001ACC4F /* portalbtn.png */,
+				8CDED70D1A016BF5000C1C97 /* forwardicon.png */,
+				8CDED70E1A016BF5000C1C97 /* navback.png */,
+				8CDED7101A016BF5000C1C97 /* schedulebtn.png */,
+				8CDED7111A016BF5000C1C97 /* stopicon.png */,
 				8C68E8731A0168D1007CB8DE /* Info.plist */,
 				8C68E8741A0168D1007CB8DE /* main.m */,
 			);
@@ -199,9 +273,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8C68E87E1A0168D1007CB8DE /* Main.storyboard in Resources */,
+				8CA0A2621A0BC751001ACC4F /* vlebtn.png in Resources */,
+				8CDED6F81A016935000C1C97 /* MasterViewController.xib in Resources */,
 				8C68E8831A0168D1007CB8DE /* LaunchScreen.xib in Resources */,
 				8C68E8801A0168D1007CB8DE /* Images.xcassets in Resources */,
+				8CDED7171A016BF5000C1C97 /* schedulebtn.png in Resources */,
+				8CDED7281A017CA5000C1C97 /* SimpleTableCell~iphone.xib in Resources */,
+				8CDED7021A016BAB000C1C97 /* WebViewController.xib in Resources */,
+				8CDED7131A016BF5000C1C97 /* database.sqlite in Resources */,
+				8CDED7141A016BF5000C1C97 /* forwardicon.png in Resources */,
+				8CDED7071A016BC2000C1C97 /* SimpleTableCell.xib in Resources */,
+				8CA0A2631A0BC751001ACC4F /* portalbtn.png in Resources */,
+				8CDED7121A016BF5000C1C97 /* backicon.png in Resources */,
+				8CDED7181A016BF5000C1C97 /* stopicon.png in Resources */,
+				8CDED7261A017CA5000C1C97 /* MasterViewController~iphone.xib in Resources */,
+				8CDED7271A017CA5000C1C97 /* SimpleTableViewController~iphone.xib in Resources */,
+				8CDED7151A016BF5000C1C97 /* navback.png in Resources */,
+				8CDED7221A017306000C1C97 /* WebViewController~iphone.xib in Resources */,
+				8CDED6FD1A016B7E000C1C97 /* SimpleTableViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -219,7 +308,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8CDED7061A016BC2000C1C97 /* SimpleTableCell.m in Sources */,
+				8CDED6F71A016935000C1C97 /* MasterViewController.m in Sources */,
+				8CDED70A1A016BD1000C1C97 /* Database.m in Sources */,
+				8CDED7011A016BAB000C1C97 /* WebViewController.m in Sources */,
 				8C68E87B1A0168D1007CB8DE /* ViewController.m in Sources */,
+				8CDED6FC1A016B7E000C1C97 /* SimpleTableViewController.m in Sources */,
 				8C68E8781A0168D1007CB8DE /* AppDelegate.m in Sources */,
 				8C68E8751A0168D1007CB8DE /* main.m in Sources */,
 			);
@@ -244,14 +338,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		8C68E87C1A0168D1007CB8DE /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				8C68E87D1A0168D1007CB8DE /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		8C68E8811A0168D1007CB8DE /* LaunchScreen.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -348,6 +434,7 @@
 				INFOPLIST_FILE = Coursework3/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -358,6 +445,7 @@
 				INFOPLIST_FILE = Coursework3/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -414,6 +502,7 @@
 				8C68E8941A0168D1007CB8DE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8C68E8951A0168D1007CB8DE /* Build configuration list for PBXNativeTarget "Coursework3Tests" */ = {
 			isa = XCConfigurationList;
@@ -422,6 +511,7 @@
 				8C68E8971A0168D1007CB8DE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
